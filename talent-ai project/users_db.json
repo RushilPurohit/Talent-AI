@@ -1,0 +1,42 @@
+[
+  {
+    "openId": "mock-recruiter-id",
+    "name": "Mock Recruiter",
+    "email": "recruiter@example.com",
+    "passwordHash": "password123",
+    "role": "recruiter",
+    "createdAt": "2026-07-01T08:34:41.967Z"
+  },
+  {
+    "openId": "mock-admin-id",
+    "name": "Mock Admin",
+    "email": "admin@example.com",
+    "passwordHash": "password123",
+    "role": "admin",
+    "createdAt": "2026-07-01T08:34:41.967Z"
+  },
+  {
+    "openId": "user_1782894881968_bxa7972mx",
+    "name": "Rushil ",
+    "email": "rushil@gmail.com",
+    "passwordHash": "12345678",
+    "role": "recruiter",
+    "createdAt": "2026-07-01T08:34:41.968Z"
+  },
+  {
+    "openId": "user_1782894949154_adgpx223n",
+    "name": "Prem",
+    "email": "prem@gmail.com",
+    "passwordHash": "12345678",
+    "role": "admin",
+    "createdAt": "2026-07-01T08:35:49.154Z"
+  },
+  {
+    "openId": "user_1782915068831_lo5hlp9lt",
+    "name": "Rushil",
+    "email": "rushil1@gmail.com",
+    "passwordHash": "12345678",
+    "role": "recruiter",
+    "createdAt": "2026-07-01T14:11:08.831Z"
+  }
+]

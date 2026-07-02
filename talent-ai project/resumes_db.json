@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1782897493417,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T09:18:13.417Z"
+  },
+  {
+    "id": 1782898070608,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T09:27:50.608Z"
+  },
+  {
+    "id": 1782913674779,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T13:47:54.779Z"
+  },
+  {
+    "id": 1782915095177,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T14:11:35.177Z"
+  },
+  {
+    "id": 1782925675222,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T17:07:55.222Z"
+  },
+  {
+    "id": 1782929067266,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T18:04:27.266Z"
+  },
+  {
+    "id": 1782929790341,
+    "fileName": "Rushil_Resume_Final.docx",
+    "fileUrl": "/uploads/Rushil_Resume_Final.docx",
+    "parsedData": {
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning",
+        "React"
+      ],
+      "experience": 4
+    },
+    "createdAt": "2026-07-01T18:16:30.341Z"
+  }
+]
