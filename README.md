@@ -1,4 +1,4 @@
-🚀 Talent-AI — Explainable AI Hiring Intelligence.
+Talent-AI — Explainable AI Hiring Intelligence
 
 Hire Smarter. Recruit Faster. Build Better Teams with AI.
 
