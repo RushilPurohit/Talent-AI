@@ -1,186 +1,202 @@
-Talent-AI — Explainable AI Hiring Intelligence.
+# 🚀 Talent-AI — Explainable AI Hiring Intelligence
 
-Hire Smarter. Recruit Faster. Build Better Teams with AI.
+> **Hire Smarter. Recruit Faster. Build Better Teams with AI.**
 
 An AI-powered recruitment platform that transforms traditional hiring into an intelligent, data-driven, and explainable hiring experience.
 
-Overview
-TalentAI is a modern recruitment platform that leverages Artificial Intelligence to automate and optimize the hiring process. It enables recruiters to efficiently manage job postings, analyze candidate resumes, evaluate applicant suitability, and make informed hiring decisions through intelligent recommendations.
+---
 
-Unlike traditional Applicant Tracking Systems (ATS) that rely primarily on keyword matching, TalentAI understands the semantic meaning of resumes and job descriptions, allowing it to identify candidates based on skills, experience, domain knowledge, and contextual relevance. The platform delivers transparent AI-generated insights, helping recruiters understand exactly why a candidate is recommended.
+# 📖 Overview
 
-Designed with scalability, performance, and user experience in mind, TalentAI combines modern web technologies with AI-driven intelligence to provide an enterprise-ready recruitment solution.
+Talent-AI is a modern recruitment platform that leverages **Artificial Intelligence** to automate and optimize the hiring process. It enables recruiters to efficiently manage job postings, analyze candidate resumes, evaluate applicant suitability, and make informed hiring decisions through intelligent recommendations.
 
-Key Features
+Unlike traditional Applicant Tracking Systems (ATS) that rely primarily on keyword matching, Talent-AI understands the semantic meaning of resumes and job descriptions, allowing it to identify candidates based on **skills, experience, domain knowledge, and contextual relevance**.
 
-•	AI-powered resume analysis
+The platform delivers **transparent AI-generated insights**, helping recruiters understand exactly **why** a candidate is recommended.
 
-•	Intelligent resume parsing
+Designed with scalability, performance, and user experience in mind, Talent-AI combines modern web technologies with AI-driven intelligence to provide an enterprise-ready recruitment solution.
 
-•	Smart candidate-job matching
+---
 
-•	Explainable AI recommendations
+# ✨ Key Features
 
-•	Candidate ranking based on compatibility
+- 🤖 AI-Powered Resume Analysis
+- 📄 Intelligent Resume Parsing
+- 🎯 Smart Candidate–Job Matching
+- 📊 Explainable AI Recommendations
+- 📈 Candidate Ranking Based on Compatibility
+- 💼 Job Posting & Management
+- 👨‍💼 Recruiter Dashboard
+- 📋 Applicant Tracking System (ATS)
+- 🔍 Advanced Candidate Search
+- 📊 Recruitment Analytics
+- 🔐 Secure Authentication & Authorization
+- 📱 Fully Responsive User Interface
 
-•	Job posting and management
+---
 
-•	Recruiter dashboard
+# 💡 Problem Statement
 
-•	Applicant tracking system
+Recruitment is often a slow, repetitive, and resource-intensive process.
 
-•	Advanced candidate search
+HR professionals spend countless hours reviewing resumes, filtering applications, and manually comparing candidate qualifications with job requirements.
 
-•	Recruitment analytics
+Traditional Applicant Tracking Systems rely heavily on keyword matching, which often overlooks highly qualified candidates and introduces hiring bias.
 
-•	Secure authentication and authorization
+Talent-AI addresses these challenges by integrating Artificial Intelligence into recruitment workflows. Through intelligent resume understanding, semantic analysis, and explainable recommendations, the platform significantly reduces manual effort while improving hiring accuracy and decision-making.
 
-•	Fully responsive user interface
+---
 
-Problem Statement
+# 🚀 How Talent-AI Works
 
-Recruitment is often a slow, repetitive, and resource-intensive process. HR professionals spend countless hours reviewing resumes, filtering applications, and manually comparing candidate qualifications with job requirements. Traditional systems frequently rely on keyword-based matching, which can overlook highly qualified candidates and introduce bias into the hiring process.
-TalentAI addresses these challenges by integrating Artificial Intelligence into recruitment workflows. Through intelligent resume understanding, semantic analysis, and explainable recommendations, the platform significantly reduces manual effort while improving hiring accuracy and decision-making.
+1. Recruiters create job openings.
+2. Candidates upload their resumes.
+3. AI extracts candidate information.
+4. Skills, education, projects, and experience are analyzed.
+5. AI compares resumes with job requirements.
+6. Each candidate receives an explainable compatibility score.
+7. Recruiters review AI recommendations and hire the best candidates.
 
-How TalentAI Works
-1.	Recruiters create job openings.
-2.	Candidates submit their resumes.
-3.	The AI extracts and analyzes candidate information.
-4.	Skills, experience, education, and projects are evaluated.
-5.	AI compares resumes with job requirements.
-6.	Each candidate receives an explainable compatibility score.
-7.	Recruiters review recommendations and hire the best candidates.
+---
 
-AI Capabilities
-TalentAI incorporates Artificial Intelligence to provide:
-•	Resume understanding
+# 🧠 AI Capabilities
 
-•	Skill extraction
+Talent-AI incorporates Artificial Intelligence to provide:
 
-•	Experience analysis
+- 📝 Resume Understanding
+- 🎯 Skill Extraction
+- 💼 Experience Analysis
+- 📄 Job Description Comparison
+- 🔍 Semantic Candidate Matching
+- 📈 Candidate Ranking
+- 📊 Explainable AI Scoring
+- 🤖 Intelligent Hiring Recommendations
 
-•	Job-description comparison
+Instead of simply searching for keywords, Talent-AI understands the **context and relevance** of candidate profiles, resulting in more accurate hiring decisions.
 
-•	Semantic candidate matching
+---
 
-•	Candidate ranking
+# 🛠️ Technology Stack
 
-•	Explainable AI scoring
+## 🎨 Frontend
 
-•	Intelligent hiring recommendations
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Shadcn UI
 
-Instead of simply searching for matching keywords, the AI understands the context and relevance of candidate profiles, resulting in more accurate and meaningful hiring decisions.
+## ⚙️ Backend
 
-Technology Stack
-Frontend
-•	React
+- Node.js
+- Express.js
+- TypeScript
 
-•	TypeScript
+## 🗄️ Database
 
-•	Tailwind CSS
+- MySQL
+- Drizzle ORM
 
-•	Vite
+## 🤖 AI & Intelligence
 
-•	Shadcn UI
+- OpenAI API
+- Semantic Search
+- Resume Intelligence
+- Explainable AI
 
-Backend
-•	Node.js
+---
 
-•	Express.js
+# 🏗️ Architecture
 
-•	TypeScript
+```text
+                    Talent-AI
 
-Database
+             React Frontend
+                    │
+                    ▼
+              REST API Layer
+                    │
+                    ▼
+         Express Backend Server
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+   AI Intelligence        MySQL Database
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+        Candidate Recommendations
+```
 
-•	MySQL
+---
 
-•	Drizzle ORM
+# 🎯 Project Objectives
 
-• AI & Intelligence
+- ✅ Automate the recruitment workflow
+- ✅ Improve candidate selection accuracy
+- ✅ Reduce manual resume screening
+- ✅ Deliver transparent AI recommendations
+- ✅ Enhance recruiter productivity
+- ✅ Provide a scalable hiring platform
 
-•	OpenAI API
+---
 
-•	Semantic Search
+# 📈 Benefits
 
-•	Resume Intelligence
+- ⚡ Faster Hiring Process
+- 🎯 Better Candidate Matching
+- 🤖 Reduced Manual Screening
+- 📊 Explainable AI Decisions
+- 🚀 Improved Recruitment Efficiency
+- 💻 Modern User Experience
+- 🏢 Enterprise-Level Architecture
+- 📈 Scalable & Maintainable Codebase
 
-•	Explainable AI
+---
 
-Architecture
-                 TalentAI
+# 🔮 Future Enhancements
 
-        React Frontend
-               │
-               ▼
-         REST API Layer
-               │
-               ▼
-      Express Backend Server
-               │
-     ┌─────────┴─────────┐
-     ▼                   ▼
- AI Intelligence      Database
-     │                   │
-     └─────────┬─────────┘
-               ▼
-      Candidate Recommendations
+- 🤖 AI Interview Assistant
+- 🎤 Voice-Based Candidate Evaluation
+- 🎥 Video Resume Analysis
+- 💼 LinkedIn Integration
+- 💻 GitHub Profile Analysis
+- 📧 Automated Email Notifications
+- 📅 Interview Scheduling
+- 📊 Skill Gap Detection
+- 💰 Salary Prediction
+- 📈 Hiring Trend Analytics
 
-Project Objectives
-•	Automate the recruitment workflow.
+---
 
-•	Improve candidate selection accuracy.
+# 🌟 Why Talent-AI?
 
-•	Reduce manual resume screening.
+Talent-AI demonstrates how Artificial Intelligence can revolutionize recruitment by replacing traditional manual screening with intelligent, transparent, and explainable decision-making.
 
-•	Deliver transparent AI recommendations.
+The project combines modern software engineering practices with AI capabilities to create a comprehensive hiring platform that is efficient, scalable, and recruiter-friendly.
 
-•	Enhance recruiter productivity.
+Whether managing a few applicants or thousands of resumes, Talent-AI empowers organizations to hire the right talent faster while maintaining fairness, accuracy, and transparency throughout the recruitment process.
 
-•	Provide a scalable hiring platform.
+---
 
-Benefits
-✔ Faster Hiring Process
+# ❤️ Support
 
-✔ Reduced Manual Effort
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
 
-✔ Better Candidate Matching
+It motivates us to continue improving the project.
 
-✔ Explainable AI Decisions
+---
 
-✔ Improved Recruitment Efficiency
+# 📜 License
 
-✔ Modern User Experience
+This project is intended for educational and demonstration purposes.
 
-✔ Enterprise-Level Architecture
+---
 
-✔ Scalable & Maintainable Codebase
+<div align="center">
 
-Future Enhancements
-•	AI Interview Assistant
+## 🚀 Empowering the Future of Recruitment with Artificial Intelligence
 
-•	Voice-Based Candidate Evaluation
+**Made with ❤️ by Team InfraMind AI**
 
-•	Video Resume Analysis
-
-•	LinkedIn Integration
-
-•	GitHub Profile Analysis
-
-•	Automated Email Notifications
-
-•	Interview Scheduling
-
-•	Skill Gap Detection
-
-•	Salary Prediction
-
-•	Hiring Trend Analytics
-
-Why TalentAI?
-
-TalentAI demonstrates how Artificial Intelligence can revolutionize recruitment by replacing traditional manual screening with intelligent, transparent, and explainable decision-making. The project combines modern software engineering practices with AI capabilities to create a comprehensive hiring platform that is efficient, scalable, and recruiter-friendly.
-Whether managing a few applicants or thousands of resumes, TalentAI empowers organizations to hire the right talent faster while maintaining fairness, accuracy, and transparency throughout the recruitment process.
-
-If you found this project useful, don’t forget to Star the repository and support the project!
-
-“Empowering the Future of Recruitment with Artificial Intelligence.”
+</div>
