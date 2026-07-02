@@ -1,5 +1,7 @@
 🚀 Talent-AI — Explainable AI Hiring Intelligence.
+
 Hire Smarter. Recruit Faster. Build Better Teams with AI.
+
 An AI-powered recruitment platform that transforms traditional hiring into an intelligent, data-driven, and explainable hiring experience.
 
 🎯 Overview
