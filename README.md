@@ -13,16 +13,27 @@ Designed with scalability, performance, and user experience in mind, TalentAI co
 
 Key Features
 •	AI-powered resume analysis
+
 •	Intelligent resume parsing
+
 •	Smart candidate-job matching
+
 •	Explainable AI recommendations
+
 •	Candidate ranking based on compatibility
+
 •	Job posting and management
+
 •	Recruiter dashboard
+
 •	Applicant tracking system
+
 •	Advanced candidate search
+
 •	Recruitment analytics
+
 •	Secure authentication and authorization
+
 •	Fully responsive user interface
 
 Problem Statement
@@ -41,33 +52,56 @@ How TalentAI Works
 AI Capabilities
 TalentAI incorporates Artificial Intelligence to provide:
 •	Resume understanding
+
 •	Skill extraction
+
 •	Experience analysis
+
 •	Job-description comparison
+
 •	Semantic candidate matching
+
 •	Candidate ranking
+
 •	Explainable AI scoring
+
 •	Intelligent hiring recommendations
+
 Instead of simply searching for matching keywords, the AI understands the context and relevance of candidate profiles, resulting in more accurate and meaningful hiring decisions.
 
 Technology Stack
 Frontend
 •	React
+
 •	TypeScript
+
 •	Tailwind CSS
+
 •	Vite
+
 •	Shadcn UI
+
 Backend
 •	Node.js
+
 •	Express.js
+
 •	TypeScript
+
 Database
+
 •	MySQL
+
 •	Drizzle ORM
-AI & Intelligence
+
+• AI & Intelligence
+
 •	OpenAI API
+
 •	Semantic Search
+
 •	Resume Intelligence
+
 •	Explainable AI
 
 Architecture
@@ -91,32 +125,53 @@ Architecture
 
 Project Objectives
 •	Automate the recruitment workflow.
+
 •	Improve candidate selection accuracy.
+
 •	Reduce manual resume screening.
+
 •	Deliver transparent AI recommendations.
+
 •	Enhance recruiter productivity.
+
 •	Provide a scalable hiring platform.
 
 Benefits
 ✔ Faster Hiring Process
+
 ✔ Reduced Manual Effort
+
 ✔ Better Candidate Matching
+
 ✔ Explainable AI Decisions
+
 ✔ Improved Recruitment Efficiency
+
 ✔ Modern User Experience
+
 ✔ Enterprise-Level Architecture
+
 ✔ Scalable & Maintainable Codebase
 
 Future Enhancements
 •	AI Interview Assistant
+
 •	Voice-Based Candidate Evaluation
+
 •	Video Resume Analysis
+
 •	LinkedIn Integration
+
 •	GitHub Profile Analysis
+
 •	Automated Email Notifications
+
 •	Interview Scheduling
+
 •	Skill Gap Detection
+
 •	Salary Prediction
+
 •	Hiring Trend Analytics
 
 Why TalentAI?
